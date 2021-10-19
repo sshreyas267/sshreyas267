@@ -9,8 +9,6 @@
 
 - 👯 I’m looking to collaborate on **Frontend Projects**
 
-- 🤝 I’m looking for help with **XRC**
-
 - 📫 How to reach me **sshreyas267@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
