@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sshreyas267" alt="sshreyas267" /></a> </p>
 
-- 🔭 I’m currently working on **Covibuddy**
+- 🔭 I’m currently working on **Frontend development**
 
 - 👯 I’m looking to collaborate on **Frontend Projects**
 
