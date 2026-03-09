@@ -10,7 +10,7 @@
 ### About Me
 
 - 🎓 MS in Data Science -> University of Wisconsin–Madison  
-- 📊 Interested in **Data Analytics, Product Analytics, and Data Engineering**  
+- 📊 Interested in **Data Analytics, Product Analytics, and Business Intelligence**  
 - 🧠 I enjoy building **data pipelines, dashboards, and analytics models**  
 - 📫 Reach me at **sshreyaswork@gmail.com**
 
