@@ -1,24 +1,94 @@
-<h1 align="center">Hi 👋, I'm Shreyas S</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Shreyas Subramanian</h1>
+<h3 align="center">Data Analyst | Data Science Graduate | Analytics & Data Systems</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sshreyas267&label=Profile%20views&color=0e75b6&style=flat" alt="sshreyas267" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sshreyas267" alt="sshreyas267" /></a> </p>
-
-- 🔭 I’m currently working on **Frontend development**
-
-- 👯 I’m looking to collaborate on **Frontend Projects**
-
-- 📫 How to reach me **sshreyas267@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shreyas-s-5959a81b3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shreyas-s-5959a81b3/" height="30" width="40" /></a>
-<a href="https://instagram.com/shreyazz_zz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shreyazz_zz" height="30" width="40" /></a>
+<img src="https://komarev.com/ghpvc/?username=sshreyas267&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sshreyas267&show_icons=true&locale=en&layout=compact" alt="sshreyas267" /></p>
+### About Me
 
+- 🎓 MS in Data Science — University of Wisconsin–Madison
+- 📊 Data analyst focused on turning messy datasets into actionable insights
+- 🧠 Experienced with **SQL, Python, Power BI, Tableau, and data pipelines**
+- ⚙️ Interested in **data analytics, product analytics, and data-driven decision systems**
+- 🌱 Currently exploring **analytics engineering, experimentation, and scalable data workflows**
+
+---
+
+### Professional Experience
+
+**Data & Insights Analyst — Connyct Inc.**  
+- Analyzed multi-source survey and platform data to evaluate AI adoption trends.
+- Automated website data validation with Python scripts monitoring 30+ sources.
+- Built dashboards tracking 200+ data discrepancies to accelerate issue resolution.
+
+**Data Analyst — Wisconsin Union**
+- Built Power BI dashboards reducing manual reporting by ~30%.
+- Queried operational datasets in SQL to improve reporting accuracy.
+- Delivered analytics insights to cross-functional stakeholders.
+
+**Data Engineer Intern — HighRadius**
+- Built ETL pipelines in Python and SQL.
+- Deployed cloud-based analytics workflows using Snowflake.
+- Implemented product performance metrics to improve forecasting accuracy.
+
+---
+
+### Technical Skills
+
+**Languages**
+
+Python • SQL • R • Bash
+
+**Data & Analytics**
+
+Pandas • NumPy • Tableau • Power BI • PowerQuery • DAX • Excel
+
+**Data Engineering**
+
+PySpark • ETL Pipelines • Snowflake • AWS S3 • Redshift • Docker
+
+**Tools**
+
+Git • Linux • Jira • Confluence
+
+---
+
+### Projects
+
+**Staffing Demand Forecasting**  
+SQL • Tableau  
+Forecasted hourly staffing demand using operational data and event schedules.
+
+**Ad Spend Optimization & Attribution Analysis**  
+SQL • Tableau  
+Analyzed 45K+ rows of marketing data to identify wasted spend and improve conversion strategy.
+
+**Customer Churn Dashboard**  
+Power BI • Excel • DAX  
+Built an end-to-end dashboard identifying drivers of customer churn.
+
+**Stock Market Data Pipeline**  
+Python • PySpark • AWS • Redshift  
+Built a scalable pipeline processing real-time stock market data.
+
+---
+
+### GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=sshreyas267&show_icons=true&theme=default" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sshreyas267&layout=compact" />
+</p>
+
+---
+
+### Connect With Me
+
+LinkedIn: https://linkedin.com/in/shreyazz  
+Email: sshreyaswork@gmail.com
