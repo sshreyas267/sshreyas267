@@ -25,7 +25,7 @@ I don't build features because competitors have them. I build them because users
 | Case Study | Type | Core Insight |
 |---|---|---|
 | **Focus Vault** | Live Product · Chrome Extension | Users cannot close tabs because they fear losing context, and cannot keep them open because they create distraction. No competing tool solves both sides simultaneously. |
-| **Spotify Discover Music** | Feature Recommendation | All four of Spotify's existing input categories measure past behaviour. Discover Music introduces a fifth — human evaluative judgment — that no algorithm can replicate. |
+| **Spotify Discover Music** | Feature Recommendation | All four of Spotify's existing input categories measure past behaviour. Discover Music introduces a fifth: human evaluative judgment, that no algorithm can replicate. |
 | **Goodreads** | Product Improvement | Amazon owns the Kindle data that could fix Goodreads' broken discovery and review systems. A better Goodreads is a revenue protection play for a $28B book business. |
 | **Notion Guided Mode** | Feature Recommendation | Notion's activation problem is not a pricing problem. 96M unpaid users never got past the blank canvas. Guided Mode is the mechanism that unlocks $120M in dormant ARR. |
 
