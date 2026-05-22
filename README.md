@@ -15,10 +15,8 @@ I don't build features because competitors have them. I build them because users
 
 - 🎓 MS in Data Science · University of Wisconsin–Madison
 - 🏢 Co-Founder & Product Lead · Code Robin
-- 📦 Live Product · [Focus Vault on Chrome Web Store](https://chrome.google.com/webstore)
 - 🔍 Actively exploring PM and TPM roles
-- 📫 Reach me at **sshreyaswork@gmail.com**
-- 🌐 Portfolio · [sshreyas267.github.io](https://sshreyas267.github.io)
+
 
 ---
 
@@ -89,5 +87,7 @@ Selected as one of 10 university-wide North Star Initiative supervisors. Built a
 </a>
 <a href="https://sshreyas267.github.io">
 <img src="https://img.shields.io/badge/Portfolio-232F3E?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+<a href="mailto:sshreyaswork@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
